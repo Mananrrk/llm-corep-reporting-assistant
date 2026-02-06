@@ -1,0 +1,25 @@
+COREP – OWN FUNDS (TEMPLATE C 01.00)
+
+Template C 01.00 shall be used to report the composition of own funds.
+
+Column 010 – Amount
+Institutions shall report the amount of each own funds component.
+
+Row 010 – Common Equity Tier 1 capital
+This row shall include the total Common Equity Tier 1 capital after regulatory adjustments.
+
+Row 020 – Common shares
+Institutions shall report the amount of common shares that qualify as Common Equity Tier 1 instruments in accordance with Article 26(1)(a) and Article 28 of the CRR.
+
+Row 030 – Retained earnings
+Institutions shall report retained earnings as defined in Article 26(1)(c) of the CRR.
+Interim profits shall only be included where they have been verified by the institution’s external auditors.
+
+Row 040 – Accumulated other comprehensive income
+Institutions shall report accumulated other comprehensive income in accordance with the applicable accounting framework.
+
+Row 050 – Other reserves
+Institutions shall report other reserves that qualify as Common Equity Tier 1 items under Article 26(1)(e).
+
+Row 060 – Total Common Equity Tier 1 capital
+This row shall equal the sum of rows 020 to 050.

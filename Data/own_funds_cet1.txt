@@ -1,0 +1,31 @@
+CRR – OWN FUNDS
+SECTION 1 – COMMON EQUITY TIER 1 CAPITAL
+
+Article 26 – Common Equity Tier 1 capital items
+
+1. Common Equity Tier 1 capital shall consist of the following items:
+(a) instruments that meet the conditions set out in Article 28 or, where applicable, Article 29;
+(b) share premium accounts related to the instruments referred to in point (a);
+(c) retained earnings;
+(d) accumulated other comprehensive income;
+(e) other reserves.
+
+2. Institutions shall calculate Common Equity Tier 1 capital as the sum of the items listed in paragraph 1, after applying the regulatory adjustments specified in Articles 32 to 36.
+
+Article 28 – Conditions for Common Equity Tier 1 instruments
+
+1. Capital instruments shall qualify as Common Equity Tier 1 instruments only if all of the following conditions are met:
+(a) the instruments are issued directly by the institution;
+(b) the instruments are fully paid up;
+(c) the instruments are classified as equity under the applicable accounting framework;
+(d) the instruments are perpetual;
+(e) distributions are paid out of distributable items.
+
+Article 36 – Regulatory adjustments to Common Equity Tier 1 capital
+
+1. Institutions shall deduct the following from Common Equity Tier 1 items:
+(a) losses for the current financial year;
+(b) intangible assets;
+(c) deferred tax assets that rely on future profitability.
+
+For the purposes of this prototype, regulatory deductions are assumed to be zero unless explicitly stated in the reporting scenario.

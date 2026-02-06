@@ -1,0 +1,16 @@
+{
+  "template": "C_01.00",
+  "fields": [
+    {
+      "row": "030",
+      "label": "Retained earnings",
+      "column": "010",
+      "value": 80000000,
+      "unit": "GBP",
+      "justification": [
+        "CRR Article 26(1)(c)",
+        "COREP C01 Row 030"
+      ]
+    }
+  ]
+}
